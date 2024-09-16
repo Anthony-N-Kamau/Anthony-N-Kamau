@@ -1,8 +1,9 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Anthony, an aspiring data scientist. I am interested in all things Python, R and Data Science!
+- 🔭 I’m currently working on data manipulation, visualisation and analysis using datasets from [kaggle](https://www.kaggle.com/datasets).
+- 🌱 I’m currently learning Python and mastering R.
+- 👯 I’m looking to collaborate on new and interesting projects and datasets.
+  -  Send me ideas at (kamauanthony171@gmail.com)
 
 <!--
 **Anthony-N-Kamau/Anthony-N-Kamau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
