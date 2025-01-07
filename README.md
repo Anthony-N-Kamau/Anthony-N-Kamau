@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Anthony Kamau. I am interested in all things Python, R, Machine learning, Deep Learning and Robotics!
+My name is Anthony Kamau. I am interested in all things Python, R, Machine learning, Deep learning and Robotics!
 
 - 🔭 Currently, I'm mainly working on machine learning algorithms and performing data manipulation, visualization and analysis using datasets from data science communities such as [kaggle](https://www.kaggle.com/datasets) etc. 
   
