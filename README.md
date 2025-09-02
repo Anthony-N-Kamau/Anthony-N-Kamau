@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-My name is Anthony Kamau. I am interested in all things Python, R, Machine learning, Deep learning and Robotics!
+My name is Anthony Kamau. I am interested in all things Python, R, Machine learning and Deep learning!
 
-- 🔭 Currently, I'm mainly working on machine learning algorithms and performing data manipulation, visualization and analysis using datasets from data science communities such as [kaggle](https://www.kaggle.com/datasets) etc. 
+- 🔭 Currently working on ML/DL models with a focus on data manipulation, visualization, and analysis.
   
-- 🌱 I’m currently learning Python and mastering R.
+- 🌱 I’m currently mastering Python, R and SQL.
   -  Join me in this interesting journey of growth and knowledge!
   
 - 👯 I’m looking to collaborate on new and interesting projects and datasets.
-  -  📫 Send me ideas at (kamauanthony171@gmail.com)
+  -  📫 Send me ideas at (a.n.kamau@students.uu.nl) or (kamauanthony171@gmail.com)
     
 - 😄 Honorifics: Mr, Sir
   
-- ⚡ Fun fact: AI has the potential to boost economic growth. The 2018 report from PricewaterhouseCoopers (PwC) projects that AI will contribute approximately $15.7 trillion to the global GDP from 2018 to 2030, representing a 14% increment in economic output and an annual productivity increase of 55%. Through technological leapfrogging, developing countries can skip stages of development by adopting the latest technology even if they haven't gone through the same industrialization process as developed countries. However, greater care should be taken to avoid falling into a technology trap and undermining of equity and fairness. Income inequality may increase and governments may become leviathans, if AI is left unchecked.
-
+- ⚡ Fun fact: Artificial intelligence holds significant promise for driving global economic growth. According to a 2018 PwC report, AI could add around $15.7 trillion to global GDP by 2030 - an estimated 14% boost in output and a 55% rise in annual productivity. For developing nations, AI offers a chance to leapfrog traditional industrial stages by adopting cutting edge technologies. However, this rapid advancement comes with risks: without careful governance, AI could exacerbate income inequality, compromise fairness and empower overly dominant state actors.
 
