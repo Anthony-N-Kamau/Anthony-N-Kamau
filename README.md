@@ -12,5 +12,5 @@ My name is Anthony Kamau. I am interested in all things Python, R, Machine learn
     
 - 😄 Honorifics: Mr, Sir
   
-- ⚡ Fun fact: Artificial intelligence holds significant promise for driving global economic growth. According to a 2018 PwC report, AI could add around $15.7 trillion to global GDP by 2030 - an estimated 14% boost in output and a 55% rise in annual productivity. For developing nations, AI offers a chance to leapfrog traditional industrial stages by adopting cutting edge technologies. However, this rapid advancement comes with risks: without careful governance, AI could exacerbate income inequality, compromise fairness and empower overly dominant state actors.
+- ⚡ Fun fact: Artificial intelligence has the potential to become a powerful engine of global economic growth. A PwC report from 2018 estimated that by 2030, AI could contribute as much as $15.7 trillion to the world economy - equivalent to a 14% increase in output and a 55% jump in annual productivity. For developing countries, this technology presents a unique opportunity to bypass traditional stages of industrialization and move straight into advanced digital systems. At the same time, the pace of progress brings serious challenges. Without strong governance, AI could deepen inequality, undermine fairness, and concentrate power in the hands of already dominant state actors.
 
