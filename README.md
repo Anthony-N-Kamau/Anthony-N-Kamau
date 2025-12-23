@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Greetings:
 Join me in this interesting journey of growth and knowledge!<br><br>👯 I’m looking to collaborate on new and interesting projects and datasets.<br><br>📫 Send me ideas at (a.n.kamau@students.uu.nl) or (kamauanthony171@gmail.com)<br><br>😄 Honorifics: Mr, Sir<br><br>⚡ Fun fact: AI offers developing economies a chance to leapfrog traditional industrialization, potentially contributing trillions in global value creation. However, weak governance could turn these gains into deeper structural inequalities.
 
 
