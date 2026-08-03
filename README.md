@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonykamau)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E.svg?logoColor=white)](https://huggingface.co/AnthonyKamau)
+
 
 
 ## 💻 Tech Stack:
